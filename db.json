@@ -1,0 +1,14 @@
+{
+  "booksdb": [
+    {
+      "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41etKx8I1cL._SX322_BO1,204,203,200_.jpg",
+      "book_name": "DULHA RAI’S CONQUEST OF DAUSA: The Early History of Kachwahas",
+      "book_author": "Maharaj Devraj Singh ",
+      "book_genre": "History",
+      "book_edition": "2022",
+      "book_publisher": "Rupa Publications India ",
+      "book_cost": 499,
+      "id": 1
+    }
+  ]
+}
