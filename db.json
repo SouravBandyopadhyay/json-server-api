@@ -1,14 +1,85 @@
 {
   "booksdb": [
-    {
-      "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41etKx8I1cL._SX322_BO1,204,203,200_.jpg",
-      "book_name": "1",
-      "book_author": "1",
-      "book_genre": "Science",
-      "book_edition": "2020",
-      "book_publisher": "1",
-      "book_cost": 1,
-      "id": 1
-    }
+     {
+    "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41bWP+idg9L._SX331_BO1,204,203,200_.jpg",
+    "book_name": "Book of Dreams ",
+    "book_author": "Jack Kerouac",
+    "book_genre": "Fiction",
+    "book_edition": "2020",
+    "book_publisher": "Martino Fine Books",
+    "book_cost": 299,
+    "book_id": 1672854074712,
+    "id": 1
+  },
+  {
+    "book_img": "https://m.media-amazon.com/images/I/51pRagRgfxL._SX324_BO1,204,203,200_.jpg",
+    "book_name": "Vanity of Duluoz",
+    "book_author": "Jack Kerouac (Author)",
+    "book_genre": "Science",
+    "book_edition": "2021",
+    "book_publisher": "Penguin Modern Classics",
+    "book_cost": 799,
+    "id": 2
+  },
+  {
+    "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41ZgK6u73qL._SX313_BO1,204,203,200_.jpg",
+    "book_name": "Man's Search For Meaning",
+    "book_author": "Viktor E Frankl",
+    "book_genre": "History",
+    "book_edition": "2022",
+    "book_publisher": "RHUK; Exported edition ",
+    "book_cost": 178,
+    "id": 3
+  },
+  {
+    "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41yu2qXhXXL._SX324_BO1,204,203,200_.jpg",
+    "book_name": "RHUK; Exported edition ",
+    "book_author": "Yuval Noah Harari",
+    "book_genre": "Science",
+    "book_edition": "2020",
+    "book_publisher": "Penguin Random House",
+    "book_cost": 288,
+    "id": 4
+  },
+  {
+    "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41-f4Qx-VoL._SX324_BO1,204,203,200_.jpg",
+    "book_name": "Homo Deus: A Brief History of Tomorrow",
+    "book_author": "Yuval Noah Harari",
+    "book_genre": "Science",
+    "book_edition": "2021",
+    "book_publisher": "Vintage",
+    "book_cost": 357,
+    "id": 5
+  },
+  {
+    "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61ndo5AyN-L._SY879_.jpg",
+    "book_name": "A Short History of The World",
+    "book_author": "H. G. Wells",
+    "book_genre": "History",
+    "book_edition": "2020",
+    "book_publisher": "Fingerprint! Publishing",
+    "book_cost": 299,
+    "id": 6
+  },
+  {
+    "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/41Z11JTRwQS._SX460_BO1,204,203,200_.jpg",
+    "book_name": "The War of the Worlds",
+    "book_author": "H. G. Wells",
+    "book_genre": "History",
+    "book_edition": "2022",
+    "book_publisher": "Fingerprint! Publishing",
+    "book_cost": 499,
+    "id": 7
+  },
+  {
+    "book_img": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/51WZ9zqrILS._SX460_BO1,204,203,200_.jpg",
+    "book_name": "Gone with the Wind",
+    "book_author": "Margaret Mitchell",
+    "book_genre": "Fiction",
+    "book_edition": "2021",
+    "book_publisher": "Fingerprint! Publishing",
+    "book_cost": 249,
+    "id": 8
+  }
   ]
 }
