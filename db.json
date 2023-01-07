@@ -4,7 +4,7 @@
       "email": "1@gmail.com",
       "username": "sourav",
       "password": "1",
-      "task": ["play", "mock", "sleep"],
+      "task": [null,null,null,null,null],
       "id": 1
     }
   ]
