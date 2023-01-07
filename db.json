@@ -1,3 +1,11 @@
 {
-"user":[]
+  "user": [
+    {
+      "email": "1@gmail.com",
+      "username": "sourav",
+      "password": "1",
+      "task": ["play", "mock", "sleep"],
+      "id": 1
+    }
+  ]
 }
